@@ -1,0 +1,27 @@
+body{
+    background-color: rgba(47, 107, 84, 0.667);
+}
+h1{
+    text-align: center;
+    color: brown;
+    font-family: 'Titillium Web', sans-serif;
+}
+h2{
+    color: aliceblue;
+}
+.h2{
+    color: aqua;
+}
+img{
+    display: block;
+    margin: auto;
+    width: 800px;
+    height: 400px;
+    box-shadow: 2px 5px 2px chartreuse;
+}
+a{
+    font-family: 'Titillium Web', sans-serif;
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 55px;
+}
